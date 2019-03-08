@@ -1,0 +1,13 @@
+node_modules
+dist
+.tmp
+.publish/
+
+.github
+.cache
+.vscode
+npm-debug.log
+.DS_Store
+dump.rdb
+yarn.lock
+package-lock.json

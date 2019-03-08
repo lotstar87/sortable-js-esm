@@ -1,0 +1,9 @@
+node_modules
+.editorconfig
+.gitignore
+.git
+.vscode
+.travis
+.yo-rc.json
+npm-debug.log
+db.sqlite
